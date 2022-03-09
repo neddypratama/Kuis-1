@@ -1,0 +1,32 @@
+h1 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: grey;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+h4 {
+    color: black;
+    font-family: Trebuchet MS;
+    text-align: center;
+    background-color: wheat; 
+    margin-left: 300px;
+    margin-right: 300px;
+}
+table {
+    margin-left: 350px;
+    margin-right: 350px;
+    height: 400px;
+    width: 400px;
+}
+
+.list {
+    text-align: center;
+    font-weight: bold;
+}
+
+img {
+    height: auto;
+    width: auto;
+}
